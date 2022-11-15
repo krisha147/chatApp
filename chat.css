@@ -1,0 +1,37 @@
+/* body{
+    background-color:
+} */
+#incoming{
+    display: flex;
+    text-align: left;
+    background-color:rgb(210, 222, 135);
+    width: 25%;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 20px;
+    box-shadow: 8px;
+}
+.outgoing{
+    display: flex;
+    text-align: left;
+    float: right; 
+    margin: 20px;
+    background-color:rgba(255, 111, 0, 0.423) ;
+    width: 25%;
+    
+    border-radius: 15px;
+    padding: 5px;
+    
+
+}
+.time-right{
+    float: right;
+    color: #aaa;
+}
+.time-left{
+    float: left;
+    color: #aaa;
+}
+
+
+
